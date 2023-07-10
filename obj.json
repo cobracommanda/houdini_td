@@ -1,0 +1,60 @@
+{
+    "dataModel": {
+        "myObjects": [
+            {
+                "name": "Object1",
+                "data": {
+                    "id": 1,
+                    "type": 5,
+                    "pscale": 3.1,
+                    "min": 7.4,
+                    "max": 65.2
+                },
+                "data2": {
+                    "scaleX": 1.8,
+                    "scaleY": 2.3,
+                    "scaleZ": 0.9,
+                    "r": 0.7,
+                    "g": 0.6,
+                    "b": 0.2
+                }
+            },
+            {
+                "name": "Object2",
+                "data": {
+                    "id": 2,
+                    "type": 7,
+                    "pscale": 2.6,
+                    "min": 4.1,
+                    "max": 75.8
+                },
+                "data2": {
+                    "scaleX": 1.2,
+                    "scaleY": 2.1,
+                    "scaleZ": 1.3,
+                    "r": 0.3,
+                    "g": 0.4,
+                    "b": 0.9
+                }
+            },
+            {
+                "name": "Object3",
+                "data": {
+                    "id": 3,
+                    "type": 3,
+                    "pscale": 1.9,
+                    "min": 10.0,
+                    "max": 88.3
+                },
+                "data2": {
+                    "scaleX": 0.8,
+                    "scaleY": 2.5,
+                    "scaleZ": 1.1,
+                    "r": 0.5,
+                    "g": 0.8,
+                    "b": 0.1
+                }
+            }
+        ]
+    }
+}
